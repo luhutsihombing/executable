@@ -14,3 +14,11 @@ interact<br/>
 4. run remote.sh (di terminal ketikan(path dan nama file tersebut) .../remote.sh
 <br/><br/>
 sangat cocok di integrasikan dengan script java atau php untuk buat scheduler backup data server
+<br/><br/><br/>
+sumber:<br/>
+http://www.forummikrotik.com/scripting-%40-mikrotik/10955-tanya-script-executable-terminal-di-ubuntu.html<br/>
+https://www.unix.com/unix-for-advanced-and-expert-users/140958-automated-scp-script-passing-password-preserve-source-file-timestamp.html<br/>
+https://stackoverflow.com/questions/41396750/using-expect-to-copy-a-file-from-one-remote-to-another<br/>
+https://stackoverflow.com/questions/7568738/can-the-expect-script-continue-to-execute-other-command-after-interact?rq=1<br/>
+https://www.thegeekstuff.com/2010/10/expect-examples<br/>
+http://www.aldo-expert.com/writers/remote-ssh-langsung-login-linux.html<br/>
